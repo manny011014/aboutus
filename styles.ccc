@@ -1,0 +1,19 @@
+ h1{
+    font-family: 'Lobster', cursive;
+    color:white;
+    }
+    .jumbotron {
+    background-color: background: rgb(0,3,36);
+    background: linear-gradient(90deg, rgba(0,3,36,1) 0%, rgba(2,3,59,1) 45%, rgba(84,0,86,1) 100%, rgba(0,212,255,1) 100%);
+}
+    h2{
+        font-family: 'Lobster', cursive;
+        color:blue;
+    }
+    h2 span{
+        font-family: 'Lobster', cursive;
+        color: grey;
+        }
+    h3{
+        font-family: 'Lobster', cursive;
+    }
